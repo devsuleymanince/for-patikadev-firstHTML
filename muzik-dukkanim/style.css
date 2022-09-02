@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    list-style-position: inside
+}
+h1, h2, nav {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(50, 30, 30);
+}
+a {
+    color: black;
+}
+nav {
+    border: 1px black solid;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.ana-sayfa-p {
+    font-family: monospace;
+    font-size: 15px;
+}
+.products-ol li {
+margin-top: 100px;
+font-size: 35px;
+font-family: monospace;
+}
+.hakkımızda-p {
+    font-size: 18px;
+    color: rgb(60, 30, 30);
+}
+.tablo-başlık {
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+address {
+    margin-top: 20px;
+}
